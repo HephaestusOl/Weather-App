@@ -9,6 +9,7 @@ body {
   position: relative;
   font-family: "Montserrat", sans-serif;
   background-color: #ffffff;
+  background: var(#{--body-background-default});
 }
 
 .container {
